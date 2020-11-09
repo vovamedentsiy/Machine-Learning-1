@@ -48,7 +48,7 @@ Find the code [here](https://github.com/vovamedentsiy/Machine-Learning-1/blob/ma
 ## Lab assignment 2: Classification
 
 <p> 
-    <img src="https://github.com/vovamedentsiy/Machine-Learning-1/blob/main/programming/imgs/lab2/1.png" width="400" height ="250" />
+    <img src="https://github.com/vovamedentsiy/Machine-Learning-1/blob/main/programming/imgs/lab2/1.png" width="200" height ="250" />
     <br>
     <em>Weights of the multiclass logistic regression model trained on the MNIST data</em> 
 <p\>
